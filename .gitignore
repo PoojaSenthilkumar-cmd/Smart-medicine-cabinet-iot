@@ -1,0 +1,15 @@
+/venv
+/Docs
+/FinalHwCode
+/Review1
+/rfidCode
+/__pycache__
+
+# Generated medicine logs
+medicine_log.csv
+
+# Runtime state
+state.json
+
+# Logs
+*.log
